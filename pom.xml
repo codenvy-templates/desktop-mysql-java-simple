@@ -61,7 +61,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass></mainClass>
+                            <mainClass>com.codenvy.example.mysql.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
